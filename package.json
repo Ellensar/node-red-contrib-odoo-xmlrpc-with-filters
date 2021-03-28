@@ -5,11 +5,11 @@
     "author": "Ross Golder <ross@golder.org>",
     "contributors": ["Ahmad Benmrad <batikhsouri@gmail.com>"],
     "dependencies": {
-      "odoo-xmlrpc": "git+https://github.com/rossigee/odoo-xmlrpc.git"
+      "odoo-xmlrpc": "https://github.com/rossigee/odoo-xmlrpc.git"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BatikhSouri/node-red-contrib-odoo-xmlrpc-with-filters.git"
+        "url": "https://github.com/BatikhSouri/node-red-contrib-odoo-xmlrpc-with-filters.git"
     },
     "keywords": [
         "node-red",
